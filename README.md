@@ -4,5 +4,5 @@
 
 In terminal emulator, run -
 ```bash
-tclsh muon.tcl
+./muon.tcl
 ```
