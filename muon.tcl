@@ -9,7 +9,7 @@
 #\
 exec wish "$0" "$@"
 
-load libtkimg1.4.16.so
+load ./libtkimg1.4.16.so
 
 
 proc X2cacl { BB KK } {
